@@ -1,0 +1,30 @@
+_repo: The-Upside-Down-Captain_60829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Harmon, Jim
+    alias: Harmon, James Judson
+    birthdate: 1933
+    deathdate: 2010
+    gutenberg_agent_id: '35040'
+    url: http://www.gutenberg.org/2009/agents/35040
+    wikipedia: https://en.wikipedia.org/wiki/Jim_Harmon
+description: ''
+gutenberg_issued: '2019-12-02'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Space ships -- Fiction'
+- !lcsh 'Artificial intelligence -- Fiction'
+- !lcsh 'Science fiction'
+- !lcsh 'Outer space -- Exploration -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- GITenberg
+title: The Upside-Down Captain
+url: http://www.gutenberg.org/ebooks/60829
